@@ -18,10 +18,6 @@ A lightweight, web-based tool to format and beautify CSS code. This tool is idea
 4. View the formatted CSS in the output section.
 5. If there are syntax issues, a generic error message will be displayed.
 
-## **Bugs & features** 🧩
-- [Report bug](https://github.com/velimirpaleksic/portfolio/issues)
-- [Request Feature](https://github.com/velimirpaleksic/portfolio/issues)
-
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
 - VexSystems G: [github.com/vexsystems](https://github.com/vexsystems).
